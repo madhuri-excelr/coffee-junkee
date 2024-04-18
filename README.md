@@ -13,4 +13,4 @@
 7. internal and external page navigations
 8. input tags
 
-To see the Live Demo Go to: [Live Demo](https://madhuri-excelr.github.io/coffee-junkee/)
+To see the Live Demo Go to: [Live Demo](https://madhuri-excelr.github.io/coffee-junkee/){:target="_blank"}
