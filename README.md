@@ -3,7 +3,7 @@
 ## Technologies Used
  - HTML
 
-## HTML Concepts:
+## HTML Concepts 
 1.heading tags
 2.paragraph tag
 3.img tag
